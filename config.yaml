@@ -1,0 +1,1 @@
+engine: "postgresql+psycopg2://postgres:Alonco90!!!@localhost:5432/credit_cards"database_conn:  host: "localhost"  database: "credit_cards"  user: "postgres"  password: "Alonco90!!!"  port: 5432  

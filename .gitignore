@@ -1,0 +1,7 @@
+DS_Store
+.ipynb_checkpoints/
+.spyproject/
+shtuyot.py
+__pycache__/
+.vscode/
+*.log
